@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "interestingFact": "India is the world's largest democracy."
+    },
+    {
+      "id": 2,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "interestingFact": "Japan has more than 6,800 islands."
+    },
+    {
+      "id": 3,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 214000000,
+      "interestingFact": "The Amazon Rainforest, the largest rainforest in the world, is located in Brazil."
+    },
+    {
+      "id": 4,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "interestingFact": "Canada has the longest coastline in the world."
+    },
+    {
+      "id": 5,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25600000,
+      "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+    }
+  ]
+  
