@@ -1,4 +1,4 @@
-Dynamic Link: https://atlaswizard.netlify.app/
+
 🌍 World Atlas - React.jsApplication 🌏
 
 Welcome to the World Atlas! This beautifully crafted, responsive React.jsapplication brings the globe to your fingertips. Dive into a dynamic visual experience, showcasing flags of countries around the world. With captivating and informative country facts, effortlessly filter and search functionalities, and a handy "Contact Us" feature, this project leverages modern APIs to present up-to-date information.
